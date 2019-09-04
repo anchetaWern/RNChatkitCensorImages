@@ -1,6 +1,8 @@
 # RNChatkitCensorImages
 A React Native chat app which blurs NSFW images.
 
+You can read the full tutorial at: [https://pusher.com/tutorials/react-native-chat-censor-images](https://pusher.com/tutorials/react-native-chat-censor-images)
+
 The app has the following features:
 
 - Logging in as a specific user
